@@ -1,0 +1,17 @@
+REST API
+GET /users-html dacument render 
+GET/api/users-List of all users JSON>>>>done
+
+GET/api/users/1 - get the user id 1
+GET/api/users/2 - get the user id 2
+  
+Dynamic path parameter 
+GET/api/users/:id
+;id>>>>any random id 
+
+post/api/users- create new user 
+
+patch/api/user/1-edit the user id 1
+
+DELETE/api/user/1- delete the user with id 1
+
